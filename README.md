@@ -17,6 +17,6 @@ PCB was desinged, ordered from JLCPCB and soldered, effect is as below.
 https://github.com/user-attachments/assets/1ebb7fa0-271f-4f69-a560-24a384db4908
 
 ## PCB Render
-<img width="936" height="882" alt="PCB_Model" src="https://github.com/user-attachments/assets/5aaf02ba-eca3-478f-9d30-567bf3b9bac6" />
+<img width="468" height="441" alt="PCB_Model" src="https://github.com/user-attachments/assets/5aaf02ba-eca3-478f-9d30-567bf3b9bac6" />
 
 ## PCB Photo
