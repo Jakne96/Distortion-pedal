@@ -1,7 +1,17 @@
 # Distortion-pedal
-Project type: Portfolio
 
+## Project type:
+Portfolio
+
+## Status:
+Completed
+
+## Description
 Distortion pedal, designed in KiCAD, manufactured by JLCPCB.
 Based on circuit on the circuit presented under this link: https://www.wamplerpedals.com/blog/lifestyle-hobby/2024/08/how-to-design-a-basic-distortion-pedal-circuit/
-I prototyped the circuit on the breadboard, tested the tone and designed the PCB, V1 had some issues, like isolated islands on the PCB, and didn't work properly. Right now I'm waiting for delivery of the newest version.
+Distortion pedals are usually based on "clipping" the sound with diodes, for this project I use red LEDs.
+The circuit was at first prototyped on the breadboard and tested for its sound.
+PCB was desinged, ordered from JLCPCB and soldered, effect is as below. Audio demo is in the appropriate folder
+
+
 
