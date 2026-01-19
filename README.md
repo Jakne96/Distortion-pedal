@@ -4,7 +4,7 @@
 Portfolio
 
 ## Status:
-Completed, may add case and potentiometer knobs in the future
+Completed, may add case and potentiometer knobs in the future.
 
 ## Description
 Distortion pedal, designed in KiCAD, manufactured by JLCPCB.
